@@ -1,0 +1,92 @@
+{
+    "create": {
+        "title": "Guerra Mundial Z",
+        "overview": "Um ex-investigador da ONU, Gerry Lane, corre contra o tempo para impedir que uma pandemia zumbi ameace a humanidade. Viajando pelo mundo, ele busca respostas para conter o surto devastador.",
+        "company": "Paramount Pictures",
+        "distributor": "Paramount Pictures",
+        "release_year": 2013,
+        "featured": false,
+        "cover": "images/guerra_mundial_z.jpg"
+    },
+    "madrugada_dos_mortos": {
+        "title": "Madrugada dos Mortos",
+        "overview": "Um grupo de sobreviventes se refugia em um shopping enquanto hordas de zumbis tomam conta da cidade. Eles lutam para permanecer vivos e encontrar uma maneira de escapar.",
+        "company": "Universal Pictures",
+        "distributor": "Universal Pictures",
+        "release_year": 2004,
+        "featured": false,
+        "cover": "images/madrugada_dos_mortos.jpg"
+    },
+    "exterminio": {
+        "title": "Extermínio",
+        "overview": "Após um vírus altamente contagioso devastar a população do Reino Unido, um pequeno grupo de sobreviventes luta para escapar dos infectados e encontrar segurança.",
+        "company": "Fox Entertainment",
+        "distributor": "Fox Searchlight Pictures",
+        "release_year": 2002,
+        "featured": false,
+        "cover": "images/exterminio.jpg"
+    },
+    "resident_evil": {
+        "title": "Resident Evil: O Hóspede Maldito",
+        "overview": "Uma equipe de forças especiais entra em uma instalação secreta da Umbrella Corporation para investigar um surto viral que transformou cientistas em mortos-vivos.",
+        "company": "Constantin Film",
+        "distributor": "Screen Gems",
+        "release_year": 2002,
+        "featured": false,
+        "cover": "images/resident_evil.jpg"
+    },
+    "noite_dos_mortos_vivos": {
+        "title": "A Noite dos Mortos-Vivos",
+        "overview": "Um grupo de pessoas fica preso em uma casa enquanto mortos-vivos cercam o local, marcando o início do gênero moderno de filmes de zumbis.",
+        "company": "Walt Disney Studios",
+        "distributor": "The Walter Reade Organization",
+        "release_year": 1968,
+        "featured": false,
+        "cover": "images/noite_dos_mortos_vivos.jpg"
+    },
+    "zumbilandia": {
+        "title": "Zumbilândia",
+        "overview": "Em um mundo pós-apocalíptico, um grupo improvável de sobreviventes atravessa os Estados Unidos seguindo um conjunto peculiar de regras para sobreviver ao apocalipse zumbi.",
+        "company": "Columbia Pictures",
+        "distributor": "Columbia Pictures",
+        "release_year": 2009,
+        "featured": false,
+        "cover": "images/zumbilandia.jpg"
+    },
+    "rec": {
+        "title": "[REC]",
+        "overview": "Uma repórter de TV e seu cinegrafista ficam presos em um prédio em quarentena, onde um surto zumbi mortal se espalha rapidamente.",
+        "company": "Amazon Studios",
+        "distributor": "Filmax International",
+        "release_year": 2007,
+        "featured": false,
+        "cover": "images/rec.jpg"
+    },
+    "exterminio_2": {
+        "title": "Extermínio 2",
+        "overview": "Seis meses após a devastação causada pelo vírus da raiva, a população britânica tenta se reconstruir, mas um novo surto ameaça recomeçar o pesadelo.",
+        "company": "Warner Bros. Pictures",
+        "distributor": "Fox Atomic",
+        "release_year": 2007,
+        "featured": false,
+        "cover": "images/exterminio_2.jpg"
+    },
+    "todo_mundo_quase_morto": {
+        "title": "Todo Mundo Quase Morto",
+        "overview": "Um homem sem grandes ambições precisa amadurecer rapidamente quando um surto zumbi toma conta de Londres. Ele e seus amigos tentam se refugiar em seu pub favorito.",
+        "company": "Lionsgate Films",
+        "distributor": "Universal Pictures",
+        "release_year": 2004,
+        "featured": false,
+        "cover": "images/todo_mundo_quase_morto.jpg"
+    },
+    "invasao_zumbi": {
+        "title": "Invasão Zumbi",
+        "overview": "Durante uma viagem de trem rumo a Busan, passageiros precisam lutar para sobreviver quando um surto zumbi se espalha rapidamente pelo país.",
+        "company": "Sony Pictures",
+        "distributor": "Next Entertainment World",
+        "release_year": 2016,
+        "featured": false,
+        "cover": "images/invasao_zumbi.jpg"
+    }
+}
